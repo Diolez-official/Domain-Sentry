@@ -15,5 +15,5 @@
 ## 📥 Installation  
 ###  Clone the repository:  
 ```bash
-git clone https://github.com/yourusername/domain-sentry.git
+git clone https://github.com/Diolez-official/domain-sentry.git
 cd domain-sentry
